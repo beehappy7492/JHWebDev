@@ -148,7 +148,7 @@ export const TECH_DETAILS = {
 
 // ─── Bottom links ───────────────────────────────────────────────────────────
 export const BOTTOM_LINKS = {
-  github:      null,   // ← add your GitHub URL here when ready
+  github:      'https://github.com/beehappy7492',
   website:     'https://bumblebeeweb.dev',
   lastProject: { name: 'bumblebeeweb.dev', href: 'https://bumblebeeweb.dev' },
   email:       'jamescook061104@gmail.com',
