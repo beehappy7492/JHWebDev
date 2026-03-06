@@ -32,13 +32,13 @@ export const TECH_DETAILS = {
       },
       {
         name: 'Sort Visualizer',
-        href: '#',
+        href: 'https://github.com/beehappy7492/sort-visualizer',
         img: '/sort_visualizer.png',
         desc: 'Interactive sorting algorithm visualizer built with React 18 + Vite. Animates Bubble, Selection, Insertion, Merge, Quick, and Heap sort in real time with colour-coded states and live comparison/swap counters.',
       },
       {
         name: 'Live Shader Editor',
-        href: '#',
+        href: 'https://github.com/beehappy7492/live-shader-editor',
         img: '/live_shader_editor.png',
         desc: 'Browser-based GLSL fragment shader playground built with React + WebGL. Write shaders live and watch them render in real time — exposes uniforms like time, mouse position, and resolution as interactive sliders.',
       },
@@ -52,13 +52,13 @@ export const TECH_DETAILS = {
     projects: [
       {
         name: 'Maze Generator',
-        href: '#',
+        href: 'https://github.com/beehappy7492/maze-generator',
         img: '/maze_generator.png',
         desc: 'Console maze generator in C# .NET 8 with four algorithms — DFS, Prim\'s, Kruskal\'s, and Aldous-Broder. Features animated generation, multiple render styles, and an A* solver.',
       },
       {
         name: 'Procedural Dungeon Engine',
-        href: '#',
+        href: 'https://github.com/beehappy7492/dungeon-engine',
         img: '/dungeon_engine.png',
         desc: 'Dungeon generation engine in C# using BSP tree partitioning to carve rooms, connect corridors, and place encounters. Exports playable maps and supports pluggable room templates and encounter tables.',
       },
@@ -72,13 +72,13 @@ export const TECH_DETAILS = {
     projects: [
       {
         name: 'Ray Tracer',
-        href: '#',
+        href: 'https://github.com/beehappy7492/raytracer',
         img: '/raytracer.png',
         desc: 'C++17 Monte Carlo path tracer with Lambertian, metal, and glass materials. Features anti-aliasing, depth of field, soft shadows, and multi-threaded rendering across all CPU cores.',
       },
       {
         name: 'Software Rasterizer',
-        href: '#',
+        href: 'https://github.com/beehappy7492/software-rasterizer',
         img: '/software_rasterizer.png',
         desc: 'CPU-only 3D renderer written from scratch in C++. Loads OBJ meshes, implements a full pipeline — vertex transform, triangle rasterization, z-buffering, Phong lighting, and texture mapping — without touching the GPU.',
       },
@@ -92,13 +92,13 @@ export const TECH_DETAILS = {
     projects: [
       {
         name: 'Cosmic Order Simulation',
-        href: '#',
+        href: 'https://github.com/beehappy7492/cosmic_order_simulation',
         img: '/cosmic_order.png',
         desc: 'N-body gravitational simulation using a Barnes-Hut O(N log N) tree. Spawns up to 50,000 particles and detects emergent "order pockets" via DBSCAN clustering — testing whether stable cosmological structures arise naturally from near-random initial conditions.',
       },
       {
         name: 'Fractal Explorer',
-        href: '#',
+        href: 'https://github.com/beehappy7492/fractal-explorer',
         img: '/fractal_explorer.png',
         desc: 'Interactive fractal renderer in Python — Mandelbrot, Julia, and Burning Ship sets with smooth colouring, click-to-zoom, scroll-to-pan, and live Julia constant preview from mouse position.',
       },
@@ -112,13 +112,13 @@ export const TECH_DETAILS = {
     projects: [
       {
         name: 'Snake Game',
-        href: '#',
+        href: 'https://github.com/beehappy7492/snake-game',
         img: '/snake_game.png',
         desc: 'Classic Snake in vanilla HTML/CSS/JS — neon aesthetic, particle burst on eat, localStorage high score, speed levels, and pause support. Single file, no dependencies.',
       },
       {
         name: 'WebGL Fluid Simulation',
-        href: '#',
+        href: 'https://github.com/beehappy7492/webgl-fluid',
         img: '/webgl-fluid.png',
         desc: 'Real-time fluid dynamics in the browser using WebGL 2 — semi-Lagrangian advection, pressure solve via Jacobi iteration, and dye injection driven by mouse velocity. Runs entirely on the GPU at 60fps.',
       },
@@ -132,13 +132,13 @@ export const TECH_DETAILS = {
     projects: [
       {
         name: 'Brainfuck JIT Compiler',
-        href: '#',
+        href: 'https://github.com/beehappy7492/brainfuck-jit',
         img: '/brainfuck_jit.png',
         desc: 'Compiles Brainfuck source directly to x86-64 machine code at runtime using Python ctypes — no interpreter loop. Includes an optimisation pass that collapses repeated instructions and eliminates balanced loop scans.',
       },
       {
         name: 'HTTP Server from Scratch',
-        href: '#',
+        href: 'https://github.com/beehappy7492/http-server',
         img: '/http_server.png',
         desc: 'RFC-compliant HTTP/1.1 server written in C using raw POSIX sockets — no frameworks, no libuv. Handles persistent connections, chunked transfer encoding, static file serving, and a basic CGI-style request router.',
       },
